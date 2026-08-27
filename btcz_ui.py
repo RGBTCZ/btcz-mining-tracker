@@ -142,7 +142,7 @@ def analyze_range(address, start_str, end_str, show_details, log):
         return []
 
     is_single_day = start == end
-    log(f"Analyzing {start_str} to {end_str}...\n", "info")
+    log(f"Analyzing {start_str} to {end_str}...\n", "info") 
 
     txs = fetch_transactions(address, is_single_day, log)
 
