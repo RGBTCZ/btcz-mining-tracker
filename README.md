@@ -4,7 +4,7 @@ A simple desktop app to check how many **BitcoinZ (BTCZ)** coins arrived on a tr
 
 Built for the BitcoinZ community.
 
-![BTCZ](https://cryptologos.cc/logos/bitcoinz-btcz-logo.png)
+![BTCZ Mining Tracker](./screenshot.png)
 
 ## Features
 
