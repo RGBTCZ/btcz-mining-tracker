@@ -1,34 +1,21 @@
-# BTCZ Mining Tracker
+MIT License
 
-A simple desktop app to check how many **BitcoinZ (BTCZ)** coins arrived on a transparent address for a specific day or date range, with a focus on **mining rewards**.
+Copyright (c) 2026 YOUR NAME
 
-Built for the BitcoinZ community.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-![BTCZ](https://cryptologos.cc/logos/bitcoinz-btcz-logo.png)
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## Features
-
-- Check received BTCZ for **one day** or a **date range**
-- Highlight **mining rewards**
-- Fast mode for a single day
-- Full history mode for longer periods
-- Optional transaction details
-- Calendar date picker
-- Address history dropdown (saved locally)
-- Remove saved addresses
-- Export results to **CSV**
-- Dark modern UI
-- Official BTCZ logo in the app header and window icon
-
-## Requirements
-
-- Windows, Linux or macOS
-- Python 3.10+
-- Internet connection (uses [explorer.getbtcz.com](https://explorer.getbtcz.com/))
-
-## Installation
-
-```bash
-git clone https://github.com/DADzCore/btcz-mining-tracker.git
-cd btcz-mining-tracker
-python -m venv venv# btcz-mining-tracker
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
